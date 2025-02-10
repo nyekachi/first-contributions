@@ -104,6 +104,7 @@
 - f1ssure contributed
 - devNjan contributed
 - karmaa
+- Karen Amadi
 - Muhammad Dawar here. Assalam u Alaikum
 - [JDude](https://github.com/JRHolder6263) Hi!
 - [albannakhaled](https://github.com/albannakhaled)
